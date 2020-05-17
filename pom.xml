@@ -108,7 +108,7 @@
 	      <url>http://35.154.202.43:8081/repository/sow-snapshot/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement>
+</distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
