@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.148.37:8081/repository/sow-release/</url>
+	      <url>http://15.206.148.37:8081/repository/sow-release</url>
 	    </repository>
 	    
 	    <snapshotRepository>
